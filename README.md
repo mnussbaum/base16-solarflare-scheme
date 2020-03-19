@@ -5,7 +5,14 @@ This re-hosting is necessary to work with the Base16 v0.9.0 repository scheme.
 
 ## Example
 
+Solarflare
+
 ![solarflare example](example.png "Example colors for Solarflare")
+
+Solarflare Light 
+
+![solarflare light example](example-solarflare-light.png "Example colors for Solarflare Light")
+
 
 ## License
 [MIT License](./LICENSE)
